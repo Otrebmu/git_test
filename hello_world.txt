@@ -1,1 +1,3 @@
-Ceci a pour but de modifier brièvement le odcument
+Ceci a pour but de modifier brièvement le document
+
+Je fais un test de commit sans message 
